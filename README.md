@@ -44,4 +44,5 @@ This project is currently in the initial **Frontend Development Phase**. Several
 
 ## 🤝 Contribution
 
-This is a personal student project, but feedback and suggestions are welcome!
+This is a collaborative student project of 5 membered team.
+Feedback and suggestions are welcome!
